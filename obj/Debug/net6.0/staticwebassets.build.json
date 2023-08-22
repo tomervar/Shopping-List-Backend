@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CX8Hs1nlHYf+9MUlSp9GRassEpHbn5XttUOV32P9kq0=",
+  "Source": "ShoppingListServer",
+  "BasePath": "_content/ShoppingListServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
