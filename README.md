@@ -1,5 +1,8 @@
 # Shopping-List-Backend
 
+Server + MongoDB
+
+
 ## Getting Started
 1. **Download the server**
 2. **Open Visual Studio**
